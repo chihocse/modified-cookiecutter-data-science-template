@@ -64,7 +64,7 @@ Save the `.gitignore` file to prevent the data from being committed to your repo
 │   │   ├── predict.py          <- Scripts for running inference with trained models           
 │   │   └── train.py            <- Scripts for training models
 │   │
-│   ├── ultis                   <- Utility scripts providing supporting functions to optimize and simplify the main codebase
+│   ├── utils                   <- Utility scripts providing supporting functions to optimize and simplify the main codebase
 │   │
 │   └── services                <- Service classes to connect with external platforms, tools, or APIs
 │       └── __init__.py 
